@@ -5,3 +5,10 @@
     language: python
     types: [text]
     files: '\.m$'
+-   id: invoke-mlint
+    name: Invoke mlint
+    description: Obtain Code Analyzer messages from mlint
+    entry: invoke-mlint
+    language: python
+    types: [text]
+    files: '\.m$'
